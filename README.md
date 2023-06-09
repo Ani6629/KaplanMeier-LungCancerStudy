@@ -1,7 +1,5 @@
 # KaplanMeier-LungCancerStudy
 
-![Survival Analysis]([link-to-image-if-any](https://drive.google.com/file/d/1ZYoIcLSzRbaQ6Fzj0h3igKTJwwBfV-je/view?usp=sharing))
-
 ## Project Overview
 
 This project explores survival analysis in patients with advanced lung cancer, investigating the role of gender in survival outcomes. It uses the Kaplan-Meier estimator for survival analysis and the Log Rank Test to compare survival distributions between male and female patients.
