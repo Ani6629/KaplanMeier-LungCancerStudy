@@ -1,6 +1,5 @@
 # KaplanMeier-LungCancerStudy
 
-
 ![Survival Analysis]([link-to-image-if-any](https://drive.google.com/file/d/1ZYoIcLSzRbaQ6Fzj0h3igKTJwwBfV-je/view?usp=sharing))
 
 ## Project Overview
